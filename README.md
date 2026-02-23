@@ -4,7 +4,7 @@ name    : taegi you
 
 contact : utaek21021@gmail.com
 
-blog : ![Taegi's VELOG](https://velog.io/@ryutaegi/posts)
+blog : <a href="https://velog.io/@ryutaegi/posts">Taegi's VELOG</a>
 
 ## SKILLS
 
