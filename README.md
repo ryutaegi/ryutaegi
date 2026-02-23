@@ -1,5 +1,6 @@
 ## Welcome to Taegi's GitHub 👋
 
+contact : utaek21021@gmail.com
 <!--
 **ryutaegi/ryutaegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
