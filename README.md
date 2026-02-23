@@ -3,11 +3,9 @@
 <div align=center>
 <!-- <h3>Taegi you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3> -->
-name    : taegi you
-
-contact : utaek21021@gmail.com
-
-blog : <a href="https://velog.io/@ryutaegi/posts">Taegi's VELOG</a>
+- name    : taegi you
+- contact : utaek21021@gmail.com
+- blog : <a href="https://velog.io/@ryutaegi/posts">Taegi's VELOG</a>
 
 ## SKILLS
 
