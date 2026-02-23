@@ -4,6 +4,8 @@ name    : taegi you
 
 contact : utaek21021@gmail.com
 
+blog : ![Taegi's VELOG](https://velog.io/@ryutaegi/posts)
+
 ## SKILLS
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
