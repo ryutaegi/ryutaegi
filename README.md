@@ -21,6 +21,9 @@ contact : utaek21021@gmail.com
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryutaegi&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
