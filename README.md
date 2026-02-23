@@ -1,8 +1,8 @@
 ## Welcome to Taegi's GitHub 👋
 
-name    | taei you
+name    : taei you
 
-contact | utaek21021@gmail.com
+contact : utaek21021@gmail.com
 
 ## SKILLS
 
