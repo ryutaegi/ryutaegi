@@ -1,6 +1,6 @@
 ## Welcome to Taegi's GitHub 👋
 
-name    : taei you
+name    : taegi you
 
 contact : utaek21021@gmail.com
 
