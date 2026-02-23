@@ -22,8 +22,7 @@ Designing Embedded Control Systems & Scalable Web Services
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/I2C%20%2F%20SPI-555555?style=flat-square"/>
-<img src="https://img.shields.io/badge/Serial-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
 </p>
 
 ---
