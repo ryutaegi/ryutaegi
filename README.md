@@ -1,9 +1,8 @@
 ## Welcome to Taegi's GitHub 👋
 
 name    | taei you
---
 contact | utaek21021@gmail.com
---
+
 ## SKILLS
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
