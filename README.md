@@ -1,7 +1,9 @@
 ## Welcome to Taegi's GitHub 👋
 
-contact : utaek21021@gmail.com
-
+name    | taei you
+--
+contact | utaek21021@gmail.com
+--
 ## SKILLS
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
@@ -21,7 +23,7 @@ contact : utaek21021@gmail.com
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryutaegi&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
