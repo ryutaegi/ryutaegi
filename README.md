@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Morgan's%20GitHub&fontSize=42" />
+
 ## Welcome to Taegi's GitHub 👋
 
 name    : taegi you
