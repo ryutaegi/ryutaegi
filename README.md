@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Taegi's%20GitHub&fontSize=42" />
 
-## Welcome to Taegi's GitHub 👋
-
+<div align=center>
+<h3>Taegi you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
+</h3>
 name    : taegi you
 
 contact : utaek21021@gmail.com
@@ -27,27 +28,4 @@ blog : <a href="https://velog.io/@ryutaegi/posts">Taegi's VELOG</a>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
-
-
-
-
-
-<!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JS-3766AB?style=flat-square&logo=JS&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  -->
-
-<!--
-**ryutaegi/ryutaegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+</div>
