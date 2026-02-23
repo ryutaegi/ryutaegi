@@ -58,9 +58,8 @@ Designing Embedded Control Systems & Scalable Web Services
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ryutaegi&show_icons=true&theme=buefy&hide_border=true&cache_seconds=1800"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryutaegi&layout=compact&theme=buefy&hide_border=true&cache_seconds=1800"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryutaegi&theme=github"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryutaegi&theme=github"/>
 
 </div>
 
